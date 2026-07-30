@@ -1,2 +1,2 @@
 # SE4050 - Deep Learning
-Lab-Sheet-1
+Lab-Sheet 01
